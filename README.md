@@ -4,7 +4,7 @@
 
 This repository serves as a comprehensive collection of Python programming concepts, covering fundamental and advanced topics, from basic variables and data structures to Object-Oriented Programming (OOP) and file I/O. The content is organized in a structured way to help you progressively learn Python in a clear and organized manner.
 
-## 📚 Concepts Covered:
+##  Concepts Covered:
 
 The following topics are included in this repository, each with practical examples, visualizations, and code explanations:
 
@@ -35,7 +35,7 @@ The following topics are included in this repository, each with practical exampl
 9. **File I/O Operations**  
    Master reading from and writing to files in Python, including file handling techniques, context managers (`with` statement), and file modes.
 
-## ⚙️ How This Repository Was Created
+##  How This Repository Was Created
 
 This repository was developed while learning Python programming from the tutorials and content shared by **Apna College** and the **1-hour Python Video video** by **Mosh**. The tutorials helped guide me through these fundamental concepts, which I then implemented and documented here with practical examples.
 
